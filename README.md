@@ -29,5 +29,3 @@ A basic login authentication program:
 - Console I/O (Scanner class)
 
 ---
-
-## 📂 Project Structure

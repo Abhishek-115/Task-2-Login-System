@@ -1,0 +1,10 @@
+
+---
+
+## ▶️ How to Run
+1.   git clone https://github.com/Abhishek-115/Java-Console-Projects.git
+2.cd Java-Console-Projects/src
+3.javac SimpleATM.java
+4.javac LoginSystem.java
+5.java SimpleATM
+6.java LoginSystem
